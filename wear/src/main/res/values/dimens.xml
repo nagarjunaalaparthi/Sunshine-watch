@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="digital_text_size">40dp</dimen>
+    <dimen name="digital_text_size_round">45dp</dimen>
+    <dimen name="digital_x_offset">15dp</dimen>
+    <dimen name="digital_x_offset_round">25dp</dimen>
+    <dimen name="digital_y_offset">90dp</dimen>
+
+    <!--my dimens-->
+    <dimen name="watchface_frame_padding">4dp</dimen>
+
+    <dimen name="boxinset_layout_padding">15dp</dimen>
+
+    <dimen name="time_text_size">36sp</dimen>
+    <dimen name="date_text_size">18sp</dimen>
+
+    <dimen name="weather_detail_margin_top">8dp</dimen>
+
+    <dimen name="low_temperature_text_size">22sp</dimen>
+    <dimen name="high_temperature_text_size">26sp</dimen>
+
+</resources>
